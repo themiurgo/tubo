@@ -165,3 +165,4 @@ Credits
 -------
 
 The library was inspired from a `post by Christoph Rauch <http://engineering.stylight.com/pipes-and-filters-architectures-with-python-generators/>`_.
+
