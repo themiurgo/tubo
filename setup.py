@@ -6,9 +6,9 @@ setup(
     author='Antonio Lima',
     author_email='anto87@gmail.com',
     packages=['tubo', 'tubo.test'],
-    url='http://pypi.python.org/pypi/Tubo/',
-    license='LICENSE.txt',
-    description='Tubo is a library that provides a simple pipeline system for Python.',
+    url='http://github.com/themiurgo/tubo',
+    license='MIT',
+    description='A pipeline library for Python that cuts down your boilerplate code.',
     long_description=open('README.rst').read(),
     install_requires=[],
 )

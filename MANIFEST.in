@@ -1,0 +1,1 @@
+include README.rst HISTORY.rst test_requests.py requirements.txt requests/cacert.pem
