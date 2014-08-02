@@ -121,18 +121,11 @@ Reverse text of unique lines, append the number of lines
             yield line
         yield "\nTotal Number of lines: {}".format(nlines+1)
 
-    steps = [
-        uniq,
-        reverse_string,
-        append_nlines,
-    ]
-
     output = tubo.pipeline(
         open(filename),
         uniq,
         reverse_string,
         append_nlines,
-        iterprint
     )
 
 Concatenate two files 1st words
