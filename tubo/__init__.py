@@ -1,1 +1,1 @@
-from tubo import pipeline, consume
+from .tubo import pipeline, consume
