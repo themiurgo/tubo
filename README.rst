@@ -5,6 +5,13 @@ Tubo is a library that provides a simple pipeline system for Python.
 
 Unix pipe system is an excellent example of the concept of **separation of responsibility**. Each utility does a single thing well. This increases readability, maintainability of code and code reuse. Tubo wants to bring this abstraction to Python.
 
+Installation
+------------
+
+.. code-block:: bash
+
+    pip install tubo
+
 Usage
 -----
 
