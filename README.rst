@@ -164,5 +164,5 @@ When we need to merge two inputs, or two results of different pipes, we will use
 Credits
 -------
 
-The library was inspired from a `post by Christoph Rauch <http://engineering.stylight.com/pipes-and-filters-architectures-with-python-generators/>`_.
+The library was inspired from a `post by Christoph Rauch <https://web.archive.org/web/20150621005327/http://engineering.stylight.com/pipes-and-filters-architectures-with-python-generators/>`_.
 
